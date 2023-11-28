@@ -13,6 +13,7 @@ for i in range(16):
         rt(90)
         circle(150-j*6,90)
         It(90)
+        circle(150-j*6,90)
         rt(180)
     circle()
 
